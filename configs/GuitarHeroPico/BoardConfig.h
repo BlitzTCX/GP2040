@@ -1,4 +1,4 @@
-#include <GamepadEnums.h>
+#include <GamepadConfig.h>
 
 #define PIN_DPAD_UP     13
 #define PIN_DPAD_DOWN   12
